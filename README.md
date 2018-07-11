@@ -22,6 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# draftjs-demo-pt-3-api
-# draftjs-demo-pt-3-api
-# draftjs-demo-pt-3-api
+# draftjs-demo-api
+# draftjs-demo-api
+# draftjs-demo-api
